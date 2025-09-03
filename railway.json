@@ -3,7 +3,7 @@
   "build": {
     "builder": "NIXPACKS",
     "nixpacksConfig": {
-      "buildTimeOut": 1800
+      "timeLimit": 1800
     }
   },
   "deploy": {
